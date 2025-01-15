@@ -1,3 +1,5 @@
+Assignment 3 of course Computer Graphics (COL781) at IIT Delhi - https://www.cse.iitd.ac.in/~narain/courses/2202-col781/a3.html
+
 # Path Tracing
 Path tracing to create photorealistic renderings of 3D scenes.
 
